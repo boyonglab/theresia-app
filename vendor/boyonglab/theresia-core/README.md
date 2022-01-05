@@ -1,0 +1,2 @@
+# theresia-core
+PHP project
