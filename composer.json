@@ -1,0 +1,23 @@
+{
+    "name": "boyonglab/theresia-starter-app",
+    "description": "Speed up developemnt of theresia core applications.",
+    "type": "project",
+    "require": {
+        "boyonglab/theresia-core": "dev-main",
+        "vlucas/phpdotenv": "^5.4",
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Boyonglab\\TheresiaStarterApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boyong Nangwei Lambert",
+            "email": "blbnlambert34@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
