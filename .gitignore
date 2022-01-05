@@ -1,2 +1,2 @@
-/cache/
-/config/development/
+vendor
+composer.lock
