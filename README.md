@@ -4,6 +4,12 @@ Theresia app is a basic framework based on the [Theresia core package](https://g
 
 ## Create a project
 
+### Requirements
+
+- git
+- PHP v8 and above
+- composer
+
 ### Clone repository and install dependencies
 
 ```shell
@@ -152,3 +158,7 @@ $app->get('router')->get('/form', function() use($app) {
 #### Apache
 
 #### Theresia App cloud hosting
+
+## License
+
+MIT
