@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/boyonglab/theresia-core.git",
-                "reference": "134807420f0388a971bec08be5c0f95dc80f8074"
+                "reference": "4d195e6061a7883e0f042316d9bd6198a8ed545e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/boyonglab/theresia-core/zipball/134807420f0388a971bec08be5c0f95dc80f8074",
-                "reference": "134807420f0388a971bec08be5c0f95dc80f8074",
+                "url": "https://api.github.com/repos/boyonglab/theresia-core/zipball/4d195e6061a7883e0f042316d9bd6198a8ed545e",
+                "reference": "4d195e6061a7883e0f042316d9bd6198a8ed545e",
                 "shasum": ""
             },
             "require": {
@@ -47,9 +47,9 @@
             "description": "Theresia app core",
             "support": {
                 "issues": "https://github.com/boyonglab/theresia-core/issues",
-                "source": "https://github.com/boyonglab/theresia-core/tree/beta"
+                "source": "https://github.com/boyonglab/theresia-core/tree/main"
             },
-            "time": "2022-08-03T14:34:28+00:00"
+            "time": "2022-08-03T15:32:06+00:00"
         },
         {
             "name": "graham-campbell/result-type",

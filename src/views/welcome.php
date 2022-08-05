@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Welcome | Theresia Starter App</title>
+        <title>Welcome | Theresia App</title>
     </head>
     <body>
       <h1>Welcome</h1>
