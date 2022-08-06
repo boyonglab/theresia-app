@@ -8,7 +8,7 @@ Theresia app is a basic framework based on the [Theresia core package](https://g
 
 - git
 - PHP v8 and above
-- composer
+- [composer](https://getcomposer.org/download/)
 
 ### Clone repository and install dependencies
 
